@@ -1,8 +1,10 @@
 strong entity :
     - jar dedicatedly primary key ache.
     - onno kono entity er depend kore na.
-    - single box dey
+    - single box de
+    - er nijissho meanig ache. ba kaj kore
 week entity : 
     - jar dedicatedly primary key nai. kinu ralation er jonno amara primary key niye nei
     - onno entity er upor depended
     - double box dey.
+    - nijissho kono meanig nai. onno entity er shathe mile kaj kore
