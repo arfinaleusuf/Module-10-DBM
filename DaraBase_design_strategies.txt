@@ -1,0 +1,11 @@
+Data Base Design
+    - top down approach
+    - Bottom up approach
+
+Top down approach:
+    - top e thake Model
+    - down e thake Data
+
+down up approach:
+    - age data pai
+    - pore data onujayi model ready kori
