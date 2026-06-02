@@ -1,0 +1,2 @@
+strong entity : jar dedicatedly primary key avhe
+week entity : jar dedicatedly primary key nai. kinu ralation er jonno amara primary key niye nei
