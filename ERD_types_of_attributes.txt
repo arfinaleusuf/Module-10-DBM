@@ -1,0 +1,24 @@
+Attribute:
+    - comosite
+    - multivalued
+    - derived
+
+comosite --> onek gula ekshathe
+    Roll 
+    Name (comosite)
+        First
+        Last
+    Address (comosite)
+        present
+        permanent
+
+multivalued --> MORE THAN ONE THAKTE PARE. EKTAO THAKTE PARE
+Roll 
+Name 
+{phone}  -- multivalued
+
+derived: calculate kore notun Attribute kore
+Roll
+Name
+dateOfBirth
+age()
