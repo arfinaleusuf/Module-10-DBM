@@ -9,3 +9,15 @@ Top down approach:
 down up approach:
     - age data pai
     - pore data onujayi model ready kori
+
+
+Step 01 - requirement analysis
+            ki ki save rakhbo
+
+What to avoid
+    1. redundancy (barti kichi na thakha)
+    2. incompleteness (maping rakha mane shob jaygay connection rakha)
+
+Model:
+    ER Diagram -- ERD
+    entity relationship
