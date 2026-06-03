@@ -1,0 +1,4 @@
+school --> Student
+            Teacher
+            Staff  --> employee(generalization)
+            abar employee --> Staff(specialization)
